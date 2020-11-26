@@ -1,0 +1,13 @@
+package com.zhaimy;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringbootMiaoshaDemoApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
